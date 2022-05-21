@@ -1,0 +1,92 @@
+#purpledroit {
+    width: 120px;
+    height: 120px;
+    background-color: purple;
+    position: absolute; top: 0px; right: 4px;
+}
+#purplegauche {
+    width: 120px;
+    height: 120px;
+    background-color: purple;
+    position: absolute; top: 0px; left: 4px;
+}
+#bleu {
+    width: 1150px;
+    height: 120px;
+    background-color: blue;
+    position: absolute; top: 40px; left: 30px; right: 40px;
+    
+}
+#vert1 {
+    width: 106px;
+    height: 106px;
+    background-color: green;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+#vert2 {
+    width: 106px;
+    height: 106px;
+    background-color: green;
+    margin-left: 8px;
+}
+#vert3 {
+    width: 106px;
+    height: 106px;
+    background-color: green;
+    margin-left: 8px;
+}
+#vert4 {
+    width: 106px;
+    height: 106px;
+    background-color: green;
+    margin-left: 8px;
+}
+#vert5 {
+    width: 106px;
+    height: 106px;
+    background-color: green;
+    margin-left: 8px;
+}
+#vert6 {
+    width: 106px;
+    height: 106px;
+    background-color: green;
+    margin-left: 8px;
+}
+.groupe {
+    display: inline-block;
+    align-items: flex;
+}
+#blue {
+    width: 550px;
+    height: 140px;
+    background-color: blue;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+#red {
+    width: 611px;
+    height: 140px;
+    position: absolute; top: 305px; left: 561px;
+    background-color: red;
+    margin-top: 30px;
+}
+
+.violet2 {
+    width: 120px;
+    height: 120px;
+    background-color: purple;
+    position: absolute; top: 426px; right: 467px;
+}
+#violetbas1 {
+    width: 120px;
+    height: 120px;
+    background-color: purple;
+    position: absolute; bottom: 0px; right: 4px;
+}
+#violetbas2 {
+    width: 120px;
+    height: 120px;
+    background-color: purple;
+    position: absolute; bottom: 0px; left: 4px;
